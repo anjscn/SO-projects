@@ -1,4 +1,21 @@
-Projetos de Sistemas Operacionais
+# Sistemas Operacionais
 
-Prof: Carlos Maziero
-Site da disciplina: http://wiki.inf.ufpr.br/maziero/doku.php?id=so:cronograma_2020_2
+* Prof: Carlos Maziero
+* Site da disciplina: http://wiki.inf.ufpr.br/maziero/doku.php?id=so:cronograma_2020_2
+
+#### Projetos:
+
+- [x] P0: Biblioteca de filas
+- [x] P1: Trocas de contexto
+- [x] P2: Gestão de tarefas
+- [x] P3: Dispatcher
+- [x] P4: Escalonador por prioridades
+- [x] P5: Preempção por tempo
+- [x] P6: Contabilização
+- [ ] P7: Tarefa Main
+- [ ] P8: Operador Join
+- [ ] P9: Sleeping
+- [ ] P10: Semáforos
+- [ ] P11: Uso de semáforos
+- [ ] P12: Filas de mensagens
+- [ ] P13: Gerente de discos
