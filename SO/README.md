@@ -12,9 +12,9 @@
 - [x] P4: Escalonador por prioridades
 - [x] P5: Preempção por tempo
 - [x] P6: Contabilização
-- [ ] P7: Tarefa Main
-- [ ] P8: Operador Join
-- [ ] P9: Sleeping
+- [x] P7: Tarefa Main
+- [x] P8: Operador Join
+- [x] P9: Sleeping
 - [ ] P10: Semáforos
 - [ ] P11: Uso de semáforos
 - [ ] P12: Filas de mensagens
