@@ -15,7 +15,7 @@
 - [x] P7: Tarefa Main
 - [x] P8: Operador Join
 - [x] P9: Sleeping
-- [ ] P10: Semáforos
-- [ ] P11: Uso de semáforos
-- [ ] P12: Filas de mensagens
+- [x] P10: Semáforos
+- [x] P11: Uso de semáforos
+- [x] P12: Filas de mensagens
 - [ ] P13: Gerente de discos
